@@ -1,0 +1,18 @@
+- importação
+- funções
+- uso correto de estruturas de dados
+- leitura e compreensão
+- criar uma interface para o usuário
+- o programa deve possibilitar o cadastro de eventos, usuário, etc.
+- horário de inicio, horário de fim, quantidade máxima de participantes
+- o divo quer que impressionemos ele
+- validações de input
+- remover eventos (não pode ter participantes para remover), editar eventos (CRUD)
+- verificação de participantes duplicados
+- set não permite dados duplicados
+- não parecer "júnior"
+- posso estabeceler qualquer tipo de métrica pro código ficar bom
+- manipular datas
+- tudo bem documentado e commitado
+- utilizar lambda, filter, map, sort,
+- 
