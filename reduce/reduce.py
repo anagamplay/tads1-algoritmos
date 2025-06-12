@@ -14,4 +14,3 @@ print(random_numbers)
 
 max_value = reduce(lambda x, y: x if x > y else y, random_numbers)
 print(max_value)
-
